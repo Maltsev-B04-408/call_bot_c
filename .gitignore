@@ -1,0 +1,8 @@
+build/
+.env
+*.log
+*.session
+*.tdb
+*.tdb-shm
+*.tdb-wal
+telegram_session*/
